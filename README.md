@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Jaisubasri](./github-header-image.png)
 
 #### Hey👋
 ### I'm JAISUBASRI K
